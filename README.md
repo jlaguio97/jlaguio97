@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently refining my foundational skills as a developer through data structures and algorithms, as well as taking on fun personal projects.
 
-- 👯 When I'm not coding, I'm probably going shopping. 
+- 👯 When I'm not coding, I'm aimlessly walking around the city with a coffee in my hand. 
 
 - 💬 Ask me about what to wear on your first date OR how to build a captivating front-end for your applications!
 
