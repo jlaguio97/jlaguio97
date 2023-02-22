@@ -13,7 +13,6 @@
 
 - 😄 Pronouns: he/him.
 
-- ⚡ Fun fact: I have a bachelor's in fashion studies and marketing and was previously a stylist before I started programming.
 
 - ⚙️ Languages & Tools: 
   
