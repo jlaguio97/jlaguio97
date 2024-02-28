@@ -30,16 +30,4 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
 
 </br>
-</br>
-
-#### 📈 GitHub stats:
-
-<a href="https://github.com/jlaguio97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jlaguio97&hide=issues,stars&show_icons=true&theme=vision-friendly-dark" />
-</a>
-
-</br>
-
-<a href="https://github.com/jlaguio97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlaguio97&layout=compact&theme=vision-friendly-dark&hide=Ruby&card_width=448" />
-</a>
+</br
